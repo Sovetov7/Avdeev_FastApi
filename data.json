@@ -1,0 +1,22 @@
+{
+    "groups": {
+        "3960369a-ca91-4df7-b021-915b9cdcb2c4": {
+            "name": "ssaddsdsad11g",
+            "id": "3960369a-ca91-4df7-b021-915b9cdcb2c4",
+            "created_at": "2022-12-19 16:57:10.985230"
+        }
+    },
+    "students": {
+        "e8b985e6-92da-4b75-8ba8-19b0242ec8b4": {
+            "first_name": "D",
+            "last_name": "A",
+            "age": 41,
+            "birth_date": "2032-12-19",
+            "group": "pr-2.011",
+            "login": "ssss",
+            "id": "e8b985e6-92da-4b75-8ba8-19b0242ec8b4",
+            "created_at": "2022-12-19 16:56:12.594897",
+            "password": "ppp"
+        }
+    }
+}
